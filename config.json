@@ -1,18 +1,18 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-9.0",
+  "twrp_branch": "twrp-11.0",
   "git_username": "samuioto",
   "git_email": "3011728934@qq.com",
   "use_own_dt": true,
-  "dt_url": "Samuioto/twrp_device_bbkedu_H7000",
-  "dt_branch": "twrp-9",
+  "dt_url": "Samuioto/twrp_device_xiaomi_mona",
+  "dt_branch": "master",
   "dt_remote": "github",
-  "dt_path": "device/bbkedu/H7000",
-  "device_code": "H7000",
+  "dt_path": "device/Xiaomi/mona",
+  "device_code": "mona",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-10.0"
+  "fix_branch": "android-11.0"
 }
