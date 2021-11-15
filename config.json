@@ -1,11 +1,11 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
-  "twrp_branch": "twrp-9",
+  "twrp_branch": "twrp-9.0",
   "git_username": "samuioto",
   "git_email": "3011728934@qq.com",
   "use_own_dt": true,
   "dt_url": "Samuioto/twrp_device_bbkedu_H7000",
-  "dt_branch": "master",
+  "dt_branch": "twrp-9",
   "dt_remote": "github",
   "dt_path": "device/eebbk/H7000",
   "device_code": "H7000",
